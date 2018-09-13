@@ -7,6 +7,8 @@ public class TestClass {
 
 	public TestClass() {
 		System.out.println("test no branch");
+		System.out.println("test no branch");
+		System.out.println("test no branch");
 	}
 
 }
