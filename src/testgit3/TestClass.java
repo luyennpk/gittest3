@@ -8,6 +8,7 @@ public class TestClass {
 
 	public TestClass() {
 		this.old = 1;
+		System.out.println("sdh");
 	}
 
 }
