@@ -6,7 +6,7 @@ public class TestClass {
 	
 
 	public TestClass() {
-		// TODO Auto-generated constructor stub11
+		System.out.println("test no branch");
 	}
 
 }
